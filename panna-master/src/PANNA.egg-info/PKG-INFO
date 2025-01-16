@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: PANNA
 Version: 2.0.0
 Summary: Properties from Artificial Neural Network Architectures
@@ -16,6 +16,12 @@ Requires-Dist: numpy
 Requires-Dist: tensorflow==2.13.0
 Requires-Dist: mendeleev
 Requires-Dist: scipy
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
 
 ## PANNA
 ### Properties from Artificial Neural Network Architectures

@@ -5,6 +5,7 @@ setup.py
 src/PANNA.egg-info/PKG-INFO
 src/PANNA.egg-info/SOURCES.txt
 src/PANNA.egg-info/dependency_links.txt
+src/PANNA.egg-info/desktop.ini
 src/PANNA.egg-info/entry_points.txt
 src/PANNA.egg-info/requires.txt
 src/PANNA.egg-info/top_level.txt
