@@ -3,12 +3,10 @@
 ## Introduction
 Welcome to the How to Train Your Network course. If you decide to use `PANNA` in the terminal for the exercises, this README will guide you through setting up your environment and installing the necessary packages. 
 
-This README will guide you through setting up your environment and installing the necessary packages.
-
 ## Prerequisites
 - Python 3.11 preferably (having a problem with tensorflow 2.13.0 if Python 3.13 is used)
 - pip (Python package installer)
-- (hopefully) a Linux or a macOS system. 
+- (hopefully) a Linux or a macOS system.
 
 ## Setting Up a Virtual Environment
 We recommend to create and use a virtual environment for using this specific version of PANNA, as we will have to revert to an older version of some packages (i.e.`tensorflow` needs to be at version `2.13.0` for the tutorial to work). Follow these steps to set it up: 
