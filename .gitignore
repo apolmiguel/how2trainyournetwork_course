@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 *desktop.ini*
 panna_venv/*
+=======
+desktop.ini
+pannacourse/*
+>>>>>>> 5b732a4 (Removed windows dependencies.)
