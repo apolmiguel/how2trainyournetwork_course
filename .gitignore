@@ -2,6 +2,7 @@ pannacourse/*
 datasets/diamond*/*
 gvectors/*
 train_diamond*/*
+val_diamond*/*
 gvect_already_computed.dat
 tf.log
 tfr/*
