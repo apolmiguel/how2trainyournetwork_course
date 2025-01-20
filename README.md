@@ -42,6 +42,8 @@ You may also need to install the following packages to make the `.ipynb` noteboo
 pip install numpy
 pip install matplotlib
 pip install pandas
+pip install jupyterlab
+# pip install notebook # if you want the jupyter notebook version
 ```
 
 ## Deactivating the Virtual Environment
