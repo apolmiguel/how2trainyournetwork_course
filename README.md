@@ -36,6 +36,14 @@ Once the virtual environment is activated, move to the `panna-master/` directory
 pip install .
 ```
 
+You may also need to install the following packages to make the `.ipynb` notebookis work.
+
+```sh
+pip install numpy
+pip install matplotlib
+pip install pandas
+```
+
 ## Deactivating the Virtual Environment
 After you have finished working, you can deactivate the virtual environment by running:
 
