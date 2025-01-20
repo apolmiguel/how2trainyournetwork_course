@@ -37,9 +37,10 @@ source panna_venv/bin/activate
 
 
 ## Installing the `panna` Package
-Once the virtual environment is activated, move to the `panna-master/` directory and execute the following command:
+Once the virtual environment is activated, go to `panna-master` and install `PANNA`:
 
 ```sh
+cd panna-master/
 pip install .
 ```
 
@@ -58,6 +59,7 @@ pip install jupyterlab
 On the root folder, enter the command below to open an instance of `jupyter-lab`. The notebooks should run from there, and you can even edit the `.ini` files easily.
 
 ```sh
+cd ../
 jupyter-lab
 ```
 
