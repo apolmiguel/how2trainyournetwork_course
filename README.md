@@ -46,6 +46,14 @@ pip install jupyterlab
 # pip install notebook # if you want the jupyter notebook version
 ```
 
+## Opening a `jupyter-lab` environment.
+
+On the root folder, enter the command below to open an instance of `jupyter-lab`. The notebooks should run from there, and you can even edit the `.ini` files easily.
+
+```sh
+jupyter-lab
+```
+
 ## Deactivating the Virtual Environment
 After you have finished working, you can deactivate the virtual environment by running:
 
