@@ -36,7 +36,7 @@ Once the virtual environment is activated, move to the `panna-master/` directory
 pip install .
 ```
 
-You may also need to install the following packages to make the `.ipynb` notebookis work.
+You may also need to install the following packages to make the `.ipynb` notebooks work.
 
 ```sh
 pip install numpy
