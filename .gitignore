@@ -1,5 +1,6 @@
 pannacourse/*
 datasets/diamond*/*
+datasets/diverse*/*
 gvectors/*
 train_diamond*/*
 val_diamond*/*
