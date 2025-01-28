@@ -4,7 +4,7 @@
 Welcome to the How to Train Your Network course. If you decide to use `PANNA` in the terminal for the exercises, this README will guide you through setting up your environment and installing the necessary packages. The documentation of PANNA may be found at [https://pannadevs.gitlab.io/pannadoc/](https://pannadevs.gitlab.io/pannadoc/).
 
 ## Prerequisites
-- Python `<3.13` preferably, as dependency problems may arise when loading tensorflow `v2.13.0`
+- Python `<3.12` preferably, as dependency problems may arise when loading tensorflow `v2.13.0`
 - pip (Python package installer)
 - (hopefully) a Linux or a macOS system.
 
