@@ -1,4 +1,3 @@
-pannacourse/*
 datasets/diamond*/*
 datasets/diverse*/*
 gvectors/*
@@ -7,3 +6,5 @@ val_diamond*/*
 gvect_already_computed.dat
 tf.log
 tfr/*
+panna_venv/*
+*/models/*
