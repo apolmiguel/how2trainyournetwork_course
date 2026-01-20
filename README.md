@@ -35,6 +35,15 @@ On the root folder, `how2trainyournetwork_course/`, execute the following comman
 source panna_venv/bin/activate
 ```
 
+3. **(optional) If you are using `jupyter` notebooks... **
+
+While the environment is active, install `jupyterlab` (or `notebook`) and some dependencies first using:
+
+```sh
+pip install numpy matplotlib pandas jupyterlab calphy
+# pip install notebook # if you want jupyter notebook
+```
+
 
 ## Installing the `panna` Package
 Once the virtual environment is activated, go to `panna-master` and install `PANNA`:
@@ -44,15 +53,6 @@ cd panna-master/
 pip install .
 ```
 
-You may also need to install the following packages to make the `.ipynb` notebooks work.
-
-```sh
-pip install numpy
-pip install matplotlib
-pip install pandas
-pip install jupyterlab
-# pip install notebook # if you want the jupyter notebook version
-```
 
 ## Opening a `jupyter-lab` Environment.
 
