@@ -1,4 +1,4 @@
-pannacourse/*
+panna-master/src/PANNA.egg-info/*
 datasets/diamond*/*
 datasets/diverse*/*
 gvectors/*
@@ -7,3 +7,4 @@ val_diamond*/*
 gvect_already_computed.dat
 tf.log
 tfr/*
+*venv/*

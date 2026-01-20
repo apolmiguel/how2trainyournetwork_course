@@ -1,4 +1,4 @@
-# How to Train Your Network Course
+i# How to Train Your Network Course
 
 ## Introduction
 Welcome to the How to Train Your Network course. If you decide to use `PANNA` in the terminal for the exercises, this README will guide you through setting up your environment and installing the necessary packages. The documentation of PANNA may be found at [https://pannadevs.gitlab.io/pannadoc/](https://pannadevs.gitlab.io/pannadoc/).
@@ -35,15 +35,6 @@ On the root folder, `how2trainyournetwork_course/`, execute the following comman
 source panna_venv/bin/activate
 ```
 
-3. (optional) If you are using `jupyter` notebooks... 
-
-While the environment is active, install `jupyterlab` (or `notebook`) and some dependencies first using:
-
-```sh
-pip install numpy matplotlib pandas jupyterlab calphy
-# pip install notebook # if you want jupyter notebook
-```
-Please make sure you are using `python=3.10` or `3.11` for best results.
 
 ## Installing the `panna` Package
 Once the virtual environment is activated, go to `panna-master` and install `PANNA`:
@@ -54,25 +45,9 @@ pip install .
 ```
 
 
-## Opening a `jupyter-lab` Environment.
-
-On the root folder, enter the command below to open an instance of `jupyter-lab`. The notebooks should run from there, and you can even edit the `.ini` files easily.
-
-```sh
-cd ../
-jupyter-lab
-```
-
 ## Deactivating the Virtual Environment
 After you have finished working, you can deactivate the virtual environment by running:
 
 ```sh
 deactivate
 ```
-
-<!-- ## Additional Resources
-- [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
-- [panna Documentation](https://panna.readthedocs.io/)
-
-## Contact
-For any questions or issues, please contact the course instructor at [instructor@example.com](mailto:instructor@example.com). -->
